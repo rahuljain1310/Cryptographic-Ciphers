@@ -15,14 +15,3 @@ Ciphertext: A112FFC7 2F68417B
 plaintext: FFFFFFFF FFFFFFFF
 key: FFFFFFFF FFFFFFFF FFFF
 Ciphertext: 3333DCD3 213210D2
-
-
-
-
-
-
-
-
-
-
-
